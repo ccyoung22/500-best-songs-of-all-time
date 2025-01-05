@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "../../Week-4/week-4-intro-to-express-ccyoung22"
+	},
+	{
+		"path": "../../NY-workshops/bootcamp-18-week-4-building-a-rest-api-workshop_building-a-rest-api-1"
+	},
+	{
+		"path": "../../Week-4/week-4-restful-api-workshop-oac-tree"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "free code camp "
+  }
+}

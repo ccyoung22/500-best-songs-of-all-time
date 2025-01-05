@@ -15,11 +15,7 @@
     "artistTitle": "Marvin Gaye",
     "songTitle": "What\\'s Going On"
   },
-  {
-    "position": "5",
-    "artistTitle": "Aretha Franklin",
-    "songTitle": "Respect"
-  },
+  { "position": "5", "artistTitle": "Aretha Franklin", "songTitle": "Respect" },
   {
     "position": "6",
     "artistTitle": "The Beach Boys",
@@ -41,21 +37,13 @@
     "artistTitle": "Ray Charles",
     "songTitle": "What\\'d I Say"
   },
-  {
-    "position": "11",
-    "artistTitle": "The Who",
-    "songTitle": "My Generation"
-  },
+  { "position": "11", "artistTitle": "The Who", "songTitle": "My Generation" },
   {
     "position": "12",
     "artistTitle": "Sam Cooke",
     "songTitle": "A Change Is Gonna Come"
   },
-  {
-    "position": "13",
-    "artistTitle": "The Beatles",
-    "songTitle": "Yesterday"
-  },
+  { "position": "13", "artistTitle": "The Beatles", "songTitle": "Yesterday" },
   {
     "position": "14",
     "artistTitle": "Bob Dylan",
@@ -76,21 +64,13 @@
     "artistTitle": "The Jimi Hendrix Experience",
     "songTitle": "Purple Haze"
   },
-  {
-    "position": "18",
-    "artistTitle": "Chuck Berry",
-    "songTitle": "Maybellene"
-  },
+  { "position": "18", "artistTitle": "Chuck Berry", "songTitle": "Maybellene" },
   {
     "position": "19",
     "artistTitle": "Elvis Presley",
     "songTitle": "Hound Dog"
   },
-  {
-    "position": "20",
-    "artistTitle": "The Beatles",
-    "songTitle": "Let It Be"
-  },
+  { "position": "20", "artistTitle": "The Beatles", "songTitle": "Let It Be" },
   {
     "position": "21",
     "artistTitle": "Bruce Springsteen",
@@ -101,11 +81,7 @@
     "artistTitle": "The Ronettes",
     "songTitle": "Be My Baby"
   },
-  {
-    "position": "23",
-    "artistTitle": "The Beatles",
-    "songTitle": "In My Life"
-  },
+  { "position": "23", "artistTitle": "The Beatles", "songTitle": "In My Life" },
   {
     "position": "24",
     "artistTitle": "The Impressions",
@@ -226,11 +202,7 @@
     "artistTitle": "Grandmaster Flash and the Furious Five",
     "songTitle": "The Message"
   },
-  {
-    "position": "52",
-    "artistTitle": "Prince",
-    "songTitle": "When Doves Cry"
-  },
+  { "position": "52", "artistTitle": "Prince", "songTitle": "When Doves Cry" },
   {
     "position": "53",
     "artistTitle": "Percy Sledge",
@@ -276,11 +248,7 @@
     "artistTitle": "Jerry Lee Lewis",
     "songTitle": "Whole Lotta Shakin\\' Going On"
   },
-  {
-    "position": "62",
-    "artistTitle": "Bo Diddley",
-    "songTitle": "Bo Diddley"
-  },
+  { "position": "62", "artistTitle": "Bo Diddley", "songTitle": "Bo Diddley" },
   {
     "position": "63",
     "artistTitle": "Buffalo Springfield",
@@ -418,11 +386,7 @@
     "artistTitle": "Elvis Presley",
     "songTitle": "Suspicious Minds"
   },
-  {
-    "position": "92",
-    "artistTitle": "Ramones",
-    "songTitle": "Blitzkrieg Bop"
-  },
+  { "position": "92", "artistTitle": "Ramones", "songTitle": "Blitzkrieg Bop" },
   {
     "position": "93",
     "artistTitle": "U2",
@@ -458,11 +422,7 @@
     "artistTitle": "Creedence Clearwater Revival",
     "songTitle": "Fortunate Son"
   },
-  {
-    "position": "100",
-    "artistTitle": "Gnarls Barkley",
-    "songTitle": "Crazy"
-  },
+  { "position": "100", "artistTitle": "Gnarls Barkley", "songTitle": "Crazy" },
   {
     "position": "101",
     "artistTitle": "The Rolling Stones",
@@ -533,11 +493,7 @@
     "artistTitle": "The Drifters",
     "songTitle": "Up on the Roof"
   },
-  {
-    "position": "115",
-    "artistTitle": "Sam Cooke",
-    "songTitle": "You Send Me"
-  },
+  { "position": "115", "artistTitle": "Sam Cooke", "songTitle": "You Send Me" },
   {
     "position": "116",
     "artistTitle": "The Rolling Stones",
@@ -593,11 +549,7 @@
     "artistTitle": "The Shirelles",
     "songTitle": "Will You Love Me Tomorrow"
   },
-  {
-    "position": "127",
-    "artistTitle": "Big Joe Turner",
-    "songTitle": "Shake"
-  },
+  { "position": "127", "artistTitle": "Big Joe Turner", "songTitle": "Shake" },
   { "position": "128", "artistTitle": "David Bowie", "songTitle": "Changes" },
   {
     "position": "129",
@@ -639,11 +591,7 @@
     "artistTitle": "The Beatles",
     "songTitle": "While My Guitar Gently Weeps"
   },
-  {
-    "position": "137",
-    "artistTitle": "Elton John",
-    "songTitle": "Your Song"
-  },
+  { "position": "137", "artistTitle": "Elton John", "songTitle": "Your Song" },
   {
     "position": "138",
     "artistTitle": "The Beatles",
@@ -659,11 +607,7 @@
     "artistTitle": "The Beatles",
     "songTitle": "I Saw Her Standing There"
   },
-  {
-    "position": "141",
-    "artistTitle": "Led Zeppelin",
-    "songTitle": "Kashmir"
-  },
+  { "position": "141", "artistTitle": "Led Zeppelin", "songTitle": "Kashmir" },
   {
     "position": "142",
     "artistTitle": "The Everly Brothers",
@@ -915,11 +859,7 @@
     "artistTitle": "The Drifters",
     "songTitle": "There Goes My Baby"
   },
-  {
-    "position": "197",
-    "artistTitle": "Buddy Holly",
-    "songTitle": "Peggy Sue"
-  },
+  { "position": "197", "artistTitle": "Buddy Holly", "songTitle": "Peggy Sue" },
   {
     "position": "198",
     "artistTitle": "Guns n\\' Roses",
@@ -1119,11 +1059,7 @@
     "artistTitle": "Sly and the Family Stone",
     "songTitle": "Stand!"
   },
-  {
-    "position": "245",
-    "artistTitle": "Elton John",
-    "songTitle": "Rocket Man"
-  },
+  { "position": "245", "artistTitle": "Elton John", "songTitle": "Rocket Man" },
   {
     "position": "246",
     "artistTitle": "The B-52\\'s",
@@ -1184,26 +1120,14 @@
     "artistTitle": "Radiohead",
     "songTitle": "Paranoid Android"
   },
-  {
-    "position": "258",
-    "artistTitle": "AC/DC",
-    "songTitle": "Highway to Hell"
-  },
+  { "position": "258", "artistTitle": "AC/DC", "songTitle": "Highway to Hell" },
   {
     "position": "259",
     "artistTitle": "Blondie",
     "songTitle": "Heart of Glass"
   },
-  {
-    "position": "260",
-    "artistTitle": "Bob Dylan",
-    "songTitle": "Mississippi"
-  },
-  {
-    "position": "261",
-    "artistTitle": "The Troggs",
-    "songTitle": "Wild Thing"
-  },
+  { "position": "260", "artistTitle": "Bob Dylan", "songTitle": "Mississippi" },
+  { "position": "261", "artistTitle": "The Troggs", "songTitle": "Wild Thing" },
   {
     "position": "262",
     "artistTitle": "The Who",
@@ -1280,11 +1204,7 @@
     "artistTitle": "Chuck Berry",
     "songTitle": "Sweet Little Sixteen"
   },
-  {
-    "position": "278",
-    "artistTitle": "The Beatles",
-    "songTitle": "Something"
-  },
+  { "position": "278", "artistTitle": "The Beatles", "songTitle": "Something" },
   {
     "position": "279",
     "artistTitle": "Jefferson Airplane",
@@ -1330,11 +1250,7 @@
     "artistTitle": "Stevie Wonder",
     "songTitle": "You Are the Sunshine of My Life"
   },
-  {
-    "position": "288",
-    "artistTitle": "Joni Mitchell",
-    "songTitle": "Help Me"
-  },
+  { "position": "288", "artistTitle": "Joni Mitchell", "songTitle": "Help Me" },
   { "position": "289", "artistTitle": "Blondie", "songTitle": "Call Me" },
   {
     "position": "290",
@@ -1351,11 +1267,7 @@
     "artistTitle": "Pavement",
     "songTitle": "Summer Babe (Winter Version)"
   },
-  {
-    "position": "293",
-    "artistTitle": "Run-DMC",
-    "songTitle": "Walk This Way"
-  },
+  { "position": "293", "artistTitle": "Run-DMC", "songTitle": "Walk This Way" },
   {
     "position": "294",
     "artistTitle": "Barrett Strong",
@@ -1416,11 +1328,7 @@
     "artistTitle": "Blondie",
     "songTitle": "One Way or Another"
   },
-  {
-    "position": "306",
-    "artistTitle": "Madonna",
-    "songTitle": "Like A Prayer"
-  },
+  { "position": "306", "artistTitle": "Madonna", "songTitle": "Like A Prayer" },
   {
     "position": "307",
     "artistTitle": "Daft Punk",
@@ -1481,11 +1389,7 @@
     "artistTitle": "The Everly Brothers",
     "songTitle": "Wake Up Little Susie"
   },
-  {
-    "position": "319",
-    "artistTitle": "Roy Orbison",
-    "songTitle": "In Dreams"
-  },
+  { "position": "319", "artistTitle": "Roy Orbison", "songTitle": "In Dreams" },
   {
     "position": "320",
     "artistTitle": "Screamin\\' Jay Hawkins",
@@ -1501,11 +1405,7 @@
     "artistTitle": "The Animals",
     "songTitle": "Don\\'t Let Me Be Misunderstood"
   },
-  {
-    "position": "323",
-    "artistTitle": "Elvis Costello",
-    "songTitle": "Alison"
-  },
+  { "position": "323", "artistTitle": "Elvis Costello", "songTitle": "Alison" },
   {
     "position": "324",
     "artistTitle": "Pink Floyd",
@@ -1796,11 +1696,7 @@
     "artistTitle": "Radiohead",
     "songTitle": "Fake Plastic Trees"
   },
-  {
-    "position": "386",
-    "artistTitle": "Yeah Yeah Yeahs",
-    "songTitle": "Maps"
-  },
+  { "position": "386", "artistTitle": "Yeah Yeah Yeahs", "songTitle": "Maps" },
   {
     "position": "387",
     "artistTitle": "Ray Charles",
@@ -1885,7 +1781,7 @@
   },
   {
     "position": "405",
-    "artistTitle": "Blue \u00d6yster Cult",
+    "artistTitle": "Blue Öyster Cult",
     "songTitle": "(Don\\'t Fear) the Reaper"
   },
   { "position": "406", "artistTitle": "Big Star", "songTitle": "Thirteen" },
@@ -1975,11 +1871,7 @@
     "artistTitle": "The Notorious B.I.G.",
     "songTitle": "Juicy"
   },
-  {
-    "position": "425",
-    "artistTitle": "N.W.A",
-    "songTitle": "Fuck tha Police"
-  },
+  { "position": "425", "artistTitle": "N.W.A", "songTitle": "Fuck tha Police" },
   {
     "position": "426",
     "artistTitle": "Crosby",
@@ -1995,11 +1887,7 @@
     "artistTitle": "The Isley Brothers",
     "songTitle": "It\\'s Your Thing"
   },
-  {
-    "position": "429",
-    "artistTitle": "Billy Joel",
-    "songTitle": "Piano Man"
-  },
+  { "position": "429", "artistTitle": "Billy Joel", "songTitle": "Piano Man" },
   {
     "position": "430",
     "artistTitle": "Elvis Presley",
@@ -2140,16 +2028,8 @@
     "artistTitle": "Ramones",
     "songTitle": "Sheena Is a Punk Rocker"
   },
-  {
-    "position": "462",
-    "artistTitle": "Nirvana",
-    "songTitle": "All Apologies"
-  },
-  {
-    "position": "463",
-    "artistTitle": "Sam and Dave",
-    "songTitle": "Soul Man"
-  },
+  { "position": "462", "artistTitle": "Nirvana", "songTitle": "All Apologies" },
+  { "position": "463", "artistTitle": "Sam and Dave", "songTitle": "Soul Man" },
   {
     "position": "464",
     "artistTitle": "Prince and the Revolution",
@@ -2181,11 +2061,7 @@
     "artistTitle": "The Four Tops",
     "songTitle": "Standing in the Shadows of Love"
   },
-  {
-    "position": "471",
-    "artistTitle": "Cheap Trick",
-    "songTitle": "Surrender"
-  },
+  { "position": "471", "artistTitle": "Cheap Trick", "songTitle": "Surrender" },
   { "position": "472", "artistTitle": "Del Shannon", "songTitle": "Runaway" },
   {
     "position": "473",
@@ -2205,28 +2081,20 @@
   {
     "position": "476",
     "artistTitle": "Aretha Franklin",
-    "songTitle": "Do Right Woman \u2014 Do Right Man"
+    "songTitle": "Do Right Woman — Do Right Man"
   },
   {
     "position": "477",
     "artistTitle": "The Smiths",
     "songTitle": "How Soon Is Now?"
   },
-  {
-    "position": "478",
-    "artistTitle": "The Strokes",
-    "songTitle": "Last Nite"
-  },
+  { "position": "478", "artistTitle": "The Strokes", "songTitle": "Last Nite" },
   {
     "position": "479",
     "artistTitle": "Foreigner",
     "songTitle": "I Want to Know What Love Is"
   },
-  {
-    "position": "480",
-    "artistTitle": "Beastie Boys",
-    "songTitle": "Sabotage"
-  },
+  { "position": "480", "artistTitle": "Beastie Boys", "songTitle": "Sabotage" },
   {
     "position": "481",
     "artistTitle": "Rick James",
@@ -2283,11 +2151,7 @@
     "artistTitle": "Gloria Gaynor",
     "songTitle": "I Will Survive"
   },
-  {
-    "position": "493",
-    "artistTitle": "MGMT",
-    "songTitle": "Time to Pretend"
-  },
+  { "position": "493", "artistTitle": "MGMT", "songTitle": "Time to Pretend" },
   {
     "position": "494",
     "artistTitle": "R. Kelly",
@@ -2318,5 +2182,10 @@
     "position": "500",
     "artistTitle": "Smokey Robinson and the Miracles",
     "songTitle": "Shop Around"
+  },
+  {
+    "position": "501",
+    "artistTitle": "Fleetwood Mac",
+    "songTitle": "Go Your Own Way"
   }
 ]
